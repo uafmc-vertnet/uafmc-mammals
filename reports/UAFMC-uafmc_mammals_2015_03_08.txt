@@ -1,0 +1,86 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 19
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 1
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Hall" stateprovince:"Nebraska" year <= 2015" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "pangolin" ; Times: 2
+	Query: "urocyon cineroargenteus" ; Times: 1
+	Query: "stateprovince:"Colorado" specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "type:specimen stateprovince:"arkansas" specificepithet:Striatus genus:Tamias year >= 1960 year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 326 download events in this period)
+Total number of records downloaded: 361 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 340
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-10 ; Times: 3
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-24 ; Times: 3
+	Date: 2015-02-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Balaena" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 163
+Total number of records retrieved from searches: 641
+Number of download events that retrieved data from the resource: 57
+Total number of records downloaded: 3207
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 178
+Total number of records retrieved from searches: 754
+Number of download events that retrieved data from the resource: 360
+Total number of records downloaded: 24500
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
