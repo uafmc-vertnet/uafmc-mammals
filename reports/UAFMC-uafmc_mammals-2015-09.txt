@@ -1,0 +1,171 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 164
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-08 ; Times: 5
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 8
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-29 ; Times: 4
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-22 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 3
+	Query: "crocuta crocuta" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "Odocoileus virginianus (road)" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; specificepithet:attwateri genus:Peromyscus" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Myotis leibii" ; Times: 3
+	Query: "cochise county &#34;Peromyscus maniculatus&#34; (Portal) year &gt;= 1977 year &lt;= 2005" ; Times: 1
+	Query: "pygmy shrew" ; Times: 1
+	Query: "Sciurus nayaritensis " ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "african elephant" ; Times: 1
+	Query: "Hall Nebraska" ; Times: 1
+	Query: "cochise county &#34;Peromyscus maniculatus&#34; year &gt;= 1977 year &lt;= 2005" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "Mustela rixosa country:&#34;United States&#34;" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 3
+	Query: "9 banded armadillo" ; Times: 1
+	Query: "spotted hyena" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "Myotis keenii" ; Times: 3
+	Query: "panthera onca" ; Times: 2
+	Query: "star nosed mole" ; Times: 1
+	Query: "polar bear skull" ; Times: 1
+	Query: "Odocoileus virginianus (roadkill)" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 121 (out of 1045 download events in this period)
+Total number of records downloaded: 3757
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 2
+	Country: United States ; Times: 101
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-10 ; Times: 26
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 6
+	Date: 2015-09-15 ; Times: 13
+	Date: 2015-09-16 ; Times: 28
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-07 ; Times: 2
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-29 ; Times: 8
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-08 ; Times: 3
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "dermoptera cynocephalus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "Lampropeltis calligaster" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "Tamias minimus" ; Times: 5
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "peru" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1960 year &lt;= 2015" ; Times: 2
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Myodes gapperi" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Manis tetradactyla" ; Times: 1
+	Query: "Neovison vison" ; Times: 2
+	Query: "Dermoptera" ; Times: 2
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Manis temminckii" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
