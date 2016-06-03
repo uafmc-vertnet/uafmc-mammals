@@ -1,0 +1,60 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 350
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "(lontra canadensis) institutioncode:UAFMC" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "genus:Tamias institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias" ; Times: 1
+	Query: "Equus quagga quagga" ; Times: 1
+	Query: "canid lupus" ; Times: 1
+	Query: "canis latrans institutioncode:UAFMC" ; Times: 1
+	Query: "type:specimen preparations:skull (lontra canadensis) institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias institutioncode:UAFMC" ; Times: 1
+	Query: "genus:Sorex county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 327 download events in this period)
+Total number of records downloaded: 1163
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Marmota marmota" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+
+
+End of report.
