@@ -1,0 +1,112 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 50
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Homo sapiens" ; Times: 3
+	Query: "class:mammalia locality:new hampshire" ; Times: 1
+	Query: "Diceros zoo" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Synaptomys stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:cryptotis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "african elephant" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 924 download events in this period)
+Total number of records downloaded: 1796
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 9
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-15 ; Times: 6
+	Date: 2016-08-16 ; Times: 8
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-30 ; Times: 2
+	Date: 2016-08-31 ; Times: 11
+	Date: 2016-08-29 ; Times: 5
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 10
+	Date: 2016-08-24 ; Times: 5
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 2
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 3
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "specificepithet:monax genus:Marmota hasmass:1" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "order:Lagomorpha haslength:1" ; Times: 4
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "microtus townsendii" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coyote (Canis)" ; Times: 1
+	Query: "macaca skull type:specimen" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "lEOPARDUS WIEDII" ; Times: 1
+	Query: "genus:Myotis hasmass:1" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "eulemur" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
