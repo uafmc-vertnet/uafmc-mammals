@@ -1,0 +1,179 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 244
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Denmark ; Times: 39
+	Country: Canada ; Times: 4
+	Country: Malaysia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-23 ; Times: 4
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-24 ; Times: 3
+	Date: 2018-02-12 ; Times: 6
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 11
+	Date: 2018-02-03 ; Times: 10
+	Date: 2018-02-22 ; Times: 7
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 1
+	Date: 2018-02-04 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "iptrecordid:&#34;urn:catalog:UAFMC:Mammals:0000-0002-0041&#34;" ; Times: 4
+	Query: "Camelus dromedarius dromedarius" ; Times: 5
+	Query: "genus:procyon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes institutioncode:UAFMC" ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "little brown bat hastissue:1" ; Times: 1
+	Query: "Lack mammals ursus" ; Times: 1
+	Query: "Flying lemur" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "genus:cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Equus asinus" ; Times: 2
+	Query: "specificepithet:floridana genus:neotoma county:&#34;harmon&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:ondatra stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:leucogaster genus:onychomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:1160 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:UAFMC" ; Times: 1
+	Query: "genus:cryptotis stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:UAFMC:Mammals:0000-0002-0052&#34;" ; Times: 4
+	Query: "specificepithet:tridecemlineatus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:mephitis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UAFMC:Mammals:0000-0002-0068&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UAFMC:Mammals:0076-0152-0001&#34;" ; Times: 4
+	Query: "specificepithet:kuhlii genus:Scotophilus country:&#34;Philippines&#34; hastissue:1" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:dasypus county:&#34;delaware&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UAFMC:Mammals:0070-0002-0003&#34;" ; Times: 4
+	Query: "catalognumber:1573 &#34;peromyscus leucopus&#34;" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 6
+	Query: "specificepithet:carolinensis genus:sciurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "B-1357" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon institutioncode:UAFMC" ; Times: 1
+	Query: "genus:myocastor hastissue:1" ; Times: 2
+	Query: "Equus asinus asinus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 1892 download events in this period)
+Total number of records downloaded: 17175
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 65
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-13 ; Times: 4
+	Date: 2018-02-23 ; Times: 4
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 49
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "mammal minnesota" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Peromyscus pectoralis" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "class:Mammalia institutioncode:UAFMC" ; Times: 4
+	Query: "choloepus" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "macaca mulatta" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "specificepithet:kuhlii genus:Scotophilus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+
+
+End of report.
