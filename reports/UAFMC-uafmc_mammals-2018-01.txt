@@ -1,0 +1,159 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 563
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Denmark ; Times: 76
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 4
+	Date: 2018-01-12 ; Times: 8
+	Date: 2018-01-06 ; Times: 6
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 9
+	Date: 2018-01-14 ; Times: 14
+	Date: 2018-01-24 ; Times: 22
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-15 ; Times: 22
+	Date: 2018-01-16 ; Times: 6
+	Date: 2018-01-26 ; Times: 5
+	Date: 2018-01-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UAFMC:Mammals:0000-0002-0041&#34;" ; Times: 4
+	Query: "Camelus dromedarius dromedarius" ; Times: 12
+	Query: "genus:Macaca order:Primates institutioncode:UAFMC" ; Times: 1
+	Query: "genus:Myotis institutioncode:UAFMC" ; Times: 2
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "genus:Ondatra stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "genus:pongo hastissue:1" ; Times: 1
+	Query: "anteater" ; Times: 1
+	Query: "Equus asinus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "specificepithet:bursarius genus:geomys stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 4
+	Query: "gbifdatasetid:acede617-a095-4caa-a93e-4a77f5f77935" ; Times: 1
+	Query: "sika deer" ; Times: 2
+	Query: "specificepithet:carolinensis genus:sciurus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "specificepithet:breviceps genus:geomys stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "didelphis virginiana &#34;possum&#34;" ; Times: 1
+	Query: "specificepithet:leibii genus:Myotis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "genus:cryptotis stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "Diceros bicornis bicornis" ; Times: 3
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "Panthera pardus" ; Times: 2
+	Query: "genus:geomys stateprovince:&#34;arkansas&#34; hastissue:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UAFMC:Mammals:0076-0152-0001&#34;" ; Times: 4
+	Query: "Panthera tigris" ; Times: 3
+	Query: "class:mammalia institutioncode:UAFMC" ; Times: 1
+	Query: "didelphis virginianus" ; Times: 1
+	Query: "genus:Ochrotomys hastissue:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 14
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "Kodiak Bear" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:panthera hastissue:1" ; Times: 5
+	Query: "specificepithet:ludovicianus genus:Cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Equus asinus asinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1398 download events in this period)
+Total number of records downloaded: 597
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 41
+	Country: Italy ; Times: 10
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 5
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-02 ; Times: 13
+	Date: 2018-01-25 ; Times: 9
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-23 ; Times: 12
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-22 ; Times: 4
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera tigris continent:asia" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "family:Leporidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus haslength:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "panthera pardus continent:asia" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1700 year &lt;= 1960 hasmass:1" ; Times: 1
+	Query: "genus:Canis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1961 year &lt;= 2017 hasmass:1" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "American Badger" ; Times: 2
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "nyctalus noctula" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "pongo pygmaeus continent:asia" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Kangaroo rat in Oklahoma" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+
+
+End of report.
