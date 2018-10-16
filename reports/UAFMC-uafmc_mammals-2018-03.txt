@@ -1,0 +1,143 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 154
+Number of records retrieved in searches: 539
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 126
+	Country: United Kingdom ; Times: 5
+	Country: Israel ; Times: 1
+	Country: Denmark ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 10
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-01 ; Times: 12
+	Date: 2018-03-07 ; Times: 22
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-02 ; Times: 6
+	Date: 2018-03-03 ; Times: 4
+	Date: 2018-03-05 ; Times: 13
+	Date: 2018-03-28 ; Times: 4
+	Date: 2018-03-29 ; Times: 5
+	Date: 2018-03-26 ; Times: 27
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-27 ; Times: 27
+	Date: 2018-03-25 ; Times: 8
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-20 ; Times: 6
+	Date: 2018-03-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Indri specificepithet:indri" ; Times: 9
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 5
+	Query: "specificepithet:hoffmanni genus:Choloepus" ; Times: 1
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UAFMC:Mammals:0074-0001-0050&#34;" ; Times: 4
+	Query: "specificepithet:tetradactyla genus:Tamandua" ; Times: 1
+	Query: "Pipestrellus" ; Times: 1
+	Query: "specificepithet:californicus genus:microtus county:&#34;mono&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Blarina hasmass:1" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hastissue:1" ; Times: 2
+	Query: "specificepithet:rufus genus:Canis institutioncode:UAFMC" ; Times: 2
+	Query: "specificepithet:humulis genus:Reithrodontomys stateprovince:&#34;Arkansas&#34;" ; Times: 5
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "genus:Nyctalus specificepithet:noctula" ; Times: 5
+	Query: "specificepithet:wiedii genus:Leopardus" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 2
+	Query: "genus:Chaetophractus specificepithet:vellerosus" ; Times: 5
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 2
+	Query: "Flying squirrel skeleton" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UAFMC:Mammals:0074-0001-0048&#34;" ; Times: 4
+	Query: "genus:Hylobates specificepithet:agilis" ; Times: 6
+	Query: "genus:Cynocephalus specificepithet:volans" ; Times: 9
+	Query: "genus:Sylvilagus specificepithet:aquaticus" ; Times: 2
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 2
+	Query: "genus:Microcebus specificepithet:murinus" ; Times: 13
+	Query: "genus:Cercopithecus specificepithet:mona" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UAFMC:Mammals:0074-0001-0115&#34;" ; Times: 4
+	Query: "Panthera tigris " ; Times: 1
+	Query: "genus:Bos specificepithet:taurus" ; Times: 2
+	Query: "genus:Aotus specificepithet:trivirgatus" ; Times: 2
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "genus:Pipistrellus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Felis specificepithet:catus" ; Times: 2
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:humulis" ; Times: 2
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAFMC" ; Times: 1
+	Query: "genus:Giraffa  specificepithet:camelopardalis " ; Times: 3
+	Query: "genus:Diceros specificepithet:bicornis" ; Times: 2
+	Query: "genus:Lasiurus specificepithet:seminolus" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis (captive OR zoo) institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "genus:Varecia specificepithet:variegata" ; Times: 9
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 2
+	Query: "genus:Corynorhinus specificepithet:rafinesquii" ; Times: 6
+	Query: "specificepithet:latrans genus:Canis (urban OR city)" ; Times: 1
+	Query: "genus:Choloepus specificepithet:hoffmanni" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis institutioncode:UAFMC" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "wood rat" ; Times: 2
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1284 download events in this period)
+Total number of records downloaded: 2338
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Poland ; Times: 4
+	Country: United States ; Times: 7
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-10 ; Times: 2
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 3
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Odobenidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "cricetidae hasmass:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "talpidae hasmass:1" ; Times: 1
+	Query: "family:Felidae haslength:1" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Manidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 1
+	Query: "rodentia hasmass:1" ; Times: 2
+	Query: "specificepithet:humulis genus:Reithrodontomys stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "vntype:specimen (pan troglodytes)" ; Times: 1
+	Query: "order:Cingulata preparations:skull" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "family:Felidae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 2
+
+
+End of report.
