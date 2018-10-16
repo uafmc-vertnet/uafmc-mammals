@@ -1,0 +1,78 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 145
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Italy ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-04 ; Times: 7
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic) institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:longirostris genus:Sorex stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939 institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 2
+	Query: "equus quagga" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:UAFMC" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:UAFMC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1178 download events in this period)
+Total number of records downloaded: 129
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "sylvilagus nuttalli" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "african Elephant" ; Times: 3
+
+
+End of report.
