@@ -1,0 +1,93 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 138
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "margay" ; Times: 1
+	Query: "antelope ground squirrel" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 2
+	Query: "specificepithet:hylophaga genus:blarina" ; Times: 2
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "specificepithet:astutus genus:Bassariscus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "MSH 822" ; Times: 2
+	Query: "specificepithet:gossypinus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Didelphis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1359 download events in this period)
+Total number of records downloaded: 556
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Poland ; Times: 3
+	Country: India ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "virginia opossum" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Dipodidae hasmass:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;inyo&#34;" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Muridae hasmass:1" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "genus:ochotona" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Geomyidae hasmass:1" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:hylophaga genus:blarina" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+
+
+End of report.
