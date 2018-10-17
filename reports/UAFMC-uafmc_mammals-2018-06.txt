@@ -1,0 +1,101 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Lemuridae institutioncode:UAFMC" ; Times: 1
+	Query: "papio anubis vntype:specimen" ; Times: 1
+	Query: "papio anubis" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "black tail deer" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "prairie rat hastissue:1" ; Times: 1
+	Query: "spotted hyena" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1169 download events in this period)
+Total number of records downloaded: 1158
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 20
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 5
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-08 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "sloth" ; Times: 4
+	Query: "gray wolf" ; Times: 2
+	Query: "papio anubis" ; Times: 2
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "grey fox" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "black tail deer" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "african Elephant" ; Times: 1
+	Query: "koala" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "papio anubis vntype:specimen" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "African elephant" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "American Beaver" ; Times: 4
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "hyena" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "prairie rat hastissue:1" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+
+
+End of report.
