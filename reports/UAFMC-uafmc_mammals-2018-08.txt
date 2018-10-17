@@ -1,0 +1,92 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 1073
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-30 ; Times: 5
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-22 ; Times: 8
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:keenii genus:Myotis county:&#34;Garland&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "hair samples" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis preparations:skull institutioncode:UAFMC" ; Times: 2
+	Query: "university of arkansas coyote" ; Times: 1
+	Query: "least weasel" ; Times: 4
+	Query: "genus:Myotis county:&#34;Garland&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAFMC" ; Times: 1
+	Query: "genus:Pteropus hastissue:1" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus hastissue:1" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Equus quagga" ; Times: 1
+	Query: "genus:Canis institutioncode:UAFMC" ; Times: 5
+	Query: "university of arkansas coyote gipson" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 2
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1416 download events in this period)
+Total number of records downloaded: 1171
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 1
+	Country: United States ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-23 ; Times: 6
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:keenii genus:Myotis county:&#34;Garland&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAFMC" ; Times: 2
+	Query: "panthera onca" ; Times: 2
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "mammals of india" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "&#34;myotis lucifugus&#34; hassex:1 hasmass:1" ; Times: 2
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+
+
+End of report.
