@@ -1,0 +1,79 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 234
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-03 ; Times: 3
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:latrans genus:Canis preparations:skull institutioncode:UAFMC" ; Times: 2
+	Query: "tarsier" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;Texas&#34; AND (NOT MSB NOT Earth )" ; Times: 1
+	Query: "specificepithet:grisescens genus:myotis AND (NOT TTU) hastissue:1" ; Times: 2
+	Query: "Mustela nivalis hastissue:1" ; Times: 2
+	Query: "specificepithet:sodalis genus:myotis hastissue:1" ; Times: 1
+	Query: "family:castoridae order:rodentia hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "galemys" ; Times: 1
+	Query: "specificepithet:grisescens genus:myotis hastissue:1" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 846 download events in this period)
+Total number of records downloaded: 459
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 3
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "class:Mammalia (bacula)" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "family:Felidae lengthtype:total length haslength:1" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "notiosorex" ; Times: 3
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+
+
+End of report.
