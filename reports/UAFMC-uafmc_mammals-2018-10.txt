@@ -1,0 +1,132 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 79
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-30 ; Times: 5
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-27 ; Times: 3
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-08 ; Times: 3
+	Date: 2018-10-18 ; Times: 4
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 4
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "margay" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 5
+	Query: "catalognumber:1496 hastissue:1" ; Times: 1
+	Query: "country:&#34;United States&#34; recordedby:B Arnold year &gt;= 1976 year &lt;= 2017" ; Times: 1
+	Query: "eutamias alpinus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Blarina hasmass:1" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "specificepithet:cooperi genus:Synaptomys hasmass:1" ; Times: 1
+	Query: "chinchilla mammalia" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;Oklahoma&#34; year &gt;= 1880 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:gapperi genus:myodes stateprovince:&#34;minnesota&#34; haslength:1" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "genus:Leopardus preparations:alcohol" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Tarsier" ; Times: 2
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:nayaritensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:gapperi genus:myodes stateprovince:&#34;Pennsylvania&#34; haslength:1" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 10
+	Query: "specificepithet:gapperi genus:myodes stateprovince:&#34;pennsylvania&#34; haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:panthera hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1300 download events in this period)
+Total number of records downloaded: 1668
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: El Salvador ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 25
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 12
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-22 ; Times: 4
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-13 ; Times: 2
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-15 ; Times: 2
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "glaucomys volans" ; Times: 1
+	Query: "peromyscus maniculatus &#34;lactating&#34;" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "ursus americanus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "Lasionycteris noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "Ochotona princeps vntype:specimen" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Myotis sodalis genus:myotis" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Corynorhinus" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "panthera tigris" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "notiosorex crawfordi" ; Times: 1
+	Query: "Myotis leibii genus:Myotis" ; Times: 1
+
+
+End of report.
