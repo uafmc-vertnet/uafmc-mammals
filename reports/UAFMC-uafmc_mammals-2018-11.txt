@@ -1,0 +1,205 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 503
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 79
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-07 ; Times: 37
+	Date: 2018-11-06 ; Times: 12
+	Date: 2018-11-05 ; Times: 3
+	Date: 2018-11-04 ; Times: 6
+	Date: 2018-11-03 ; Times: 4
+	Date: 2018-11-15 ; Times: 1
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-26 ; Times: 1
+	Date: 2018-11-21 ; Times: 5
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-30 ; Times: 1
+	Date: 2018-11-29 ; Times: 2
+	Date: 2018-11-12 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "mule deer" ; Times: 4
+	Query: "specificepithet:humulis genus:Reithrodontomys year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "Neotoma floridana AND (micropus)" ; Times: 1
+	Query: "Ochrotomys nuttali" ; Times: 2
+	Query: "specificepithet:montanus genus:Reithrodontomys" ; Times: 8
+	Query: "ocelot" ; Times: 5
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Saguinus ursulus" ; Times: 1
+	Query: "catalognumber:0085-0046-0080 institutioncode:UAFMC" ; Times: 2
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "specificepithet:humulis genus:Reithrodontomys" ; Times: 4
+	Query: "family:vespertilionidae continent:North America institutioncode:UAFMC" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "catalognumber:0085-0046-0196 institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;ohio&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:0075-0837-0001 institutioncode:UAFMC" ; Times: 2
+	Query: "photo vitulina" ; Times: 2
+	Query: "Neotoma floridana AND (micropus) NOT (magister)" ; Times: 1
+	Query: "catalognumber:0072-0702-0001 institutioncode:UAFMC" ; Times: 2
+	Query: "specificepithet:nuttalli genus:Ochrotomys" ; Times: 4
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 2
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 7
+	Query: "Tamiasciurus fremonti" ; Times: 5
+	Query: "genus:Cryptotis hastissue:1" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus year &gt;= 1947 year &lt;= 1957" ; Times: 1
+	Query: "specificepithet:hylophaga genus:blarina" ; Times: 5
+	Query: "hastissue:1 Taxidea taxus" ; Times: 1
+	Query: "canis rufus" ; Times: 3
+	Query: "Ocelot" ; Times: 1
+	Query: "catalognumber:0074-0001-0044 institutioncode:UAFMC" ; Times: 2
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 3
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 137 (out of 1719 download events in this period)
+Total number of records downloaded: 5834
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 77
+	Country: Brazil ; Times: 14
+	Country: Mexico ; Times: 43
+	Country: Canada ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 5
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 13
+	Date: 2018-11-06 ; Times: 16
+	Date: 2018-11-05 ; Times: 13
+	Date: 2018-11-13 ; Times: 3
+	Date: 2018-11-03 ; Times: 4
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-01 ; Times: 1
+	Date: 2018-11-15 ; Times: 19
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 13
+	Date: 2018-11-14 ; Times: 7
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-11 ; Times: 11
+	Date: 2018-11-12 ; Times: 20
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-29 ; Times: 2
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Didelphis virginiana" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "genus:Panthera onca" ; Times: 1
+	Query: "family:felidae continent:north america haslength:1" ; Times: 1
+	Query: "tamandua tetradactyla" ; Times: 1
+	Query: "Sciurinae" ; Times: 2
+	Query: "&#34;neotoma micropus&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "genus:Marmota hasmass:1" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Canis latrans" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "lontra canadensis" ; Times: 3
+	Query: "panthera onca" ; Times: 3
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "vntype:specimen genus:Cryptotis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Ochrotomys nuttali" ; Times: 2
+	Query: "genus:Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "baculum vntype:specimen order:Carnivora" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 1
+	Query: "Saguinus ursulus" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "genus:Urocyon cinereoargenteus" ; Times: 1
+	Query: "genus:Leopardus wiedii" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "Nine-banded Armadillo" ; Times: 2
+	Query: "tadarida brasiliensis" ; Times: 2
+	Query: "big brown bat" ; Times: 1
+	Query: "genus:Mustela frenata" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "reithrodontomys montanus" ; Times: 1
+	Query: "Castor Canadensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34; NOT (magister)" ; Times: 1
+	Query: "family:vespertilionidae continent:North America institutioncode:UAFMC" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Saguinus midas" ; Times: 1
+	Query: "Aotus trivirgatus" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "genus:Leopardus pardalis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 2
+	Query: "Lepus californicus californicus" ; Times: 1
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Ocelot" ; Times: 2
+	Query: "genus:Tadarida brasiliensis" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "mule deer" ; Times: 3
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "genus:Ateles geoffroyi" ; Times: 2
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "reithrodontomys humulis" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "Ursus americanus americanus" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "lutra canadensis" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:wiedii genus:Leopardus" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "canis rufus" ; Times: 3
+	Query: "Lutra lutra" ; Times: 1
+	Query: "island specificepithet:maniculatus genus:peromyscus" ; Times: 1
+
+
+End of report.
