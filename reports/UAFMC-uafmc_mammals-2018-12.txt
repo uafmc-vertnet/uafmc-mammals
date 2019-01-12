@@ -1,0 +1,113 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 518
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-21 ; Times: 4
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 7
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-14 ; Times: 2
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-02 ; Times: 4
+	Date: 2018-12-17 ; Times: 3
+	Date: 2018-12-13 ; Times: 5
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cryptotis hastissue:1" ; Times: 2
+	Query: "specificepithet:americanus genus:ursus family:ursidae stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "year &lt;= 1823 institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAFMC" ; Times: 3
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Parascalops hastissue:1" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis county:&#34;osage&#34; stateprovince:&#34;Oklahoma&#34; AND (NOT OMNH)" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus family:ursidae county:&#34;arkansas&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Canis rufus" ; Times: 11
+	Query: "specificepithet:americanus genus:ursus family:ursidae stateprovince:&#34;Wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "canis niger" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 809 download events in this period)
+Total number of records downloaded: 2419
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 17
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 15
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-09 ; Times: 10
+	Date: 2018-12-11 ; Times: 3
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-10 ; Times: 4
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-18 ; Times: 6
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-27 ; Times: 3
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "gray bat" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:Lupus genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Scalopus hastissue:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Syncerus caffer vntype:specimen" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+
+
+End of report.
