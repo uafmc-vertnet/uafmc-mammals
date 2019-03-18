@@ -1,0 +1,92 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 62
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-13 ; Times: 10
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-20 ; Times: 2
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Galemys pyrenaicus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UAFMC" ; Times: 1
+	Query: "&#34;Ursus americanus&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "coyote populations" ; Times: 3
+	Query: "Otis hastissue:1" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 12
+	Query: "giraffe" ; Times: 1
+	Query: "female skeletons" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 5
+	Query: "specificepithet:sapiens genus:Homo" ; Times: 1
+	Query: "rat skulls" ; Times: 1
+	Query: "otis hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1227 download events in this period)
+Total number of records downloaded: 109
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-14 ; Times: 6
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-19 ; Times: 2
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UAFMC" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "Dasypus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "Dermoptera" ; Times: 3
+	Query: "genus:Pteropus hastissue:1" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+
+
+End of report.
