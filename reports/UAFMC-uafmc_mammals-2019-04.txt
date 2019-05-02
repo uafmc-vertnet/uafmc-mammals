@@ -1,0 +1,124 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 149
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Canada ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-24 ; Times: 5
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Sciurus carolinensis hastissue:1" ; Times: 3
+	Query: "specificepithet:vulpes genus:Vulpes preparations:alcohol" ; Times: 2
+	Query: "ocelot" ; Times: 1
+	Query: "genus:Spilogale institutioncode:UAFMC" ; Times: 1
+	Query: "family:Mephitidae collectioncode:Mammals institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:mexicana genus:Neotoma county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Feline" ; Times: 1
+	Query: "Black buck" ; Times: 2
+	Query: "genus:Miniopterus hastissue:1" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Sylvilagus hastissue:1" ; Times: 1
+	Query: "genus:Mephitis institutioncode:UAFMC" ; Times: 1
+	Query: "Sciurus carolinensis stateprovince:&#34;New York&#34; hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 5
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;ohio&#34; country:&#34;united states&#34; hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1263 download events in this period)
+Total number of records downloaded: 813
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 8
+	Date: 2019-04-02 ; Times: 15
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 4
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-14 ; Times: 6
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Northern grasshopper mouse" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "Alces americanus" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "baiomys taylori" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 2
+
+
+End of report.
