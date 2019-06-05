@@ -1,0 +1,88 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 82
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Guatemala ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 7
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-20 ; Times: 3
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-07 ; Times: 13
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 3
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Black-tailed Jack Rabbit" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "0088-0050-1144" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;jefferson&#34; hastissue:1" ; Times: 1
+	Query: "genus: canis mandible" ; Times: 1
+	Query: "0088-0050-1148" ; Times: 1
+	Query: "Capybara skull" ; Times: 2
+	Query: "sciurus nayaritensis" ; Times: 1
+	Query: "felid" ; Times: 1
+	Query: "Capybara" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "0088-0050-1151" ; Times: 1
+	Query: "0088-0050-1436" ; Times: 1
+	Query: "Myotis autroriparius country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Illinois&#34; hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 17
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 940 download events in this period)
+Total number of records downloaded: 64
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:MALe" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+
+
+End of report.
