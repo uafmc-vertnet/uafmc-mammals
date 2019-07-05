@@ -1,0 +1,152 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 153
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 73
+	Country: Kuwait ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-08 ; Times: 3
+	Date: 2019-06-09 ; Times: 2
+	Date: 2019-06-06 ; Times: 6
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-04 ; Times: 2
+	Date: 2019-06-27 ; Times: 1
+	Date: 2019-06-11 ; Times: 20
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-10 ; Times: 32
+	Date: 2019-06-29 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Indri specificepithet:indri" ; Times: 2
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 3
+	Query: "black tailed deer" ; Times: 1
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "rodentia measurments" ; Times: 1
+	Query: "yellow bellied marmot" ; Times: 2
+	Query: "genus:Ornithorhynchus specificepithet:anatinus" ; Times: 1
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 2
+	Query: "order:Cingulata hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Diceros specificepithet:bicornis" ; Times: 2
+	Query: "black tail deer" ; Times: 3
+	Query: "genus:Tamandua specificepithet:tetradactyla" ; Times: 1
+	Query: "genus:Nyctalus specificepithet:noctula" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 3
+	Query: "genus:Chaetophractus specificepithet:vellerosus" ; Times: 1
+	Query: "red tailed deer" ; Times: 1
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 1
+	Query: "genus:Hylobates specificepithet:agilis" ; Times: 2
+	Query: "genus:Hydrochoerus specificepithet:hydrochaeris" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "genus:Antilocapra specificepithet:americana" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus" ; Times: 2
+	Query: "genus:Cynocephalus specificepithet:volans" ; Times: 2
+	Query: "genus:Varecia specificepithet:variegata" ; Times: 3
+	Query: "genus:Microcebus specificepithet:murinus" ; Times: 2
+	Query: "genus:Cercopithecus specificepithet:mona" ; Times: 2
+	Query: "genus:Aotus specificepithet:trivirgatus" ; Times: 2
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 3
+	Query: "genus:Felis specificepithet:catus" ; Times: 1
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 11
+	Query: "genus:Reithrodontomys specificepithet:humulis" ; Times: 2
+	Query: "tarsier" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "genus:Lasiurus specificepithet:seminolus" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "genus:Choloepus specificepithet:hoffmanni" ; Times: 1
+	Query: "genus:Notoryctes specificepithet:typhlops" ; Times: 1
+	Query: "genus:Cavia specificepithet:porcellus" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:rafinesquii" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 86 (out of 1182 download events in this period)
+Total number of records downloaded: 1545
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 82
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-22 ; Times: 2
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-26 ; Times: 3
+	Date: 2019-06-08 ; Times: 9
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 9
+	Date: 2019-06-07 ; Times: 19
+	Date: 2019-06-04 ; Times: 21
+	Date: 2019-06-05 ; Times: 14
+	Date: 2019-06-03 ; Times: 4
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gray wolf" ; Times: 1
+	Query: "black tailed deer" ; Times: 1
+	Query: "bob cat" ; Times: 1
+	Query: "mouse deer" ; Times: 1
+	Query: "marmot" ; Times: 2
+	Query: "yellow bellied marmot" ; Times: 2
+	Query: "Opossum" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes" ; Times: 1
+	Query: "black tail deer" ; Times: 2
+	Query: "bobcat" ; Times: 3
+	Query: "pronghorn" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "raccoon continent:north america" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "koala" ; Times: 4
+	Query: "castor canadensis" ; Times: 1
+	Query: "field vole" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1946 year &lt;= 1955" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "continent:North America (wolf canis lupus)" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "genus:cratogeomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Pika" ; Times: 4
+	Query: "Beavers" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "armadillo" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "kangaroo rat" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "jaguar" ; Times: 2
+	Query: "pika" ; Times: 13
+	Query: "beavers" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "grey fox" ; Times: 1
+	Query: "black bear" ; Times: 2
+	Query: "bison" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "flying squirrel" ; Times: 3
+
+
+End of report.
