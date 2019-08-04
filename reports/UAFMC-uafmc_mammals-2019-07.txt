@@ -1,0 +1,84 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 183
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Nepal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 8
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 2
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 1
+	Query: "FAYETTEVILLE Peromyscus" ; Times: 2
+	Query: "genus:Galemys specificepithet:pyrenaicus" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "nutria" ; Times: 1
+	Query: "Felis lynx" ; Times: 1
+	Query: "genus:Varecia specificepithet:variegata" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 7
+	Query: "ocelot" ; Times: 2
+	Query: "giant anteater" ; Times: 1
+	Query: "armadillo skeleton" ; Times: 1
+	Query: "specificepithet:humulis genus:Reithrodontomys stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:rafinesquii" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 985 download events in this period)
+Total number of records downloaded: 158
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-25 ; Times: 3
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus (Arizona) hastissue:1" ; Times: 1
+
+
+End of report.
