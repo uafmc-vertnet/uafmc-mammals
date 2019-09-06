@@ -1,0 +1,144 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 572
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 73
+	Country: Unknown ; Times: 1
+	Country: Thailand ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 9
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-08 ; Times: 4
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-23 ; Times: 3
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 11
+	Date: 2019-08-14 ; Times: 2
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-05 ; Times: 9
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-07 ; Times: 6
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-27 ; Times: 9
+	Date: 2019-08-24 ; Times: 2
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 4
+	Date: 2019-08-30 ; Times: 8
+	Date: 2019-08-20 ; Times: 6
+	Date: 2019-08-21 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "Zakrzewski" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 2
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 2
+	Query: "vntype:specimen genus:homo preparations:skeleton AND (NOT juvenile)" ; Times: 1
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 10
+	Query: "Myotis austroriparius haslength:1" ; Times: 2
+	Query: "family:vespertilionidae order:chiroptera continent:Europe basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Nycticeius humeralis haslength:1" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 4
+	Query: "genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Myotis keenii haslength:1" ; Times: 2
+	Query: "Myotis leibii haslength:1" ; Times: 2
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UAFMC" ; Times: 2
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 16
+	Query: "Saguinus midas" ; Times: 1
+	Query: "Myotis sodalis haslength:1" ; Times: 2
+	Query: "Corynorhinus rafinesquii haslength:1" ; Times: 2
+	Query: "Lasiurus seminolus haslength:1" ; Times: 2
+	Query: "order:cingulata preparations:skeleton" ; Times: 3
+	Query: "Myotis velifer haslength:1" ; Times: 2
+	Query: "Panthera onca" ; Times: 10
+	Query: "Myotis grisescens haslength:1" ; Times: 2
+	Query: "specificepithet:americanus genus:Ursus hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "genus:Cebus haslength:1" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Lasiurus borealis haslength:1" ; Times: 2
+	Query: "order:Rodentia county:&#34;Uintah&#34; stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 1
+	Query: "Bos taurus L." ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "genus:Ursus hasmass:1 haslength:1" ; Times: 2
+	Query: "Zapus hudsonius" ; Times: 3
+	Query: "Felis lynx" ; Times: 11
+	Query: "Black tail deer" ; Times: 2
+	Query: "Hapalemur griseus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1034 download events in this period)
+Total number of records downloaded: 863
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-08 ; Times: 3
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 6
+	Date: 2019-08-28 ; Times: 6
+	Date: 2019-08-29 ; Times: 6
+	Date: 2019-08-26 ; Times: 4
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-30 ; Times: 2
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "Zakrzewski" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "panthera tigris" ; Times: 4
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "eulemur" ; Times: 1
+
+
+End of report.
