@@ -1,0 +1,156 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 2221
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 102
+	Country: Thailand ; Times: 14
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-17 ; Times: 8
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-13 ; Times: 2
+	Date: 2019-09-26 ; Times: 5
+	Date: 2019-09-18 ; Times: 22
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-03 ; Times: 15
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-04 ; Times: 4
+	Date: 2019-09-06 ; Times: 15
+	Date: 2019-09-05 ; Times: 14
+	Date: 2019-09-24 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 1976" ; Times: 1
+	Query: "Myotis keenii haslength:1" ; Times: 1
+	Query: "Myotis velifer haslength:1" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale hasmass:1 haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "canis rufus" ; Times: 6
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 1
+	Query: "specificepithet:nivalis genus:Mustela hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Dasypus hasmass:1 haslength:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "Microtus pennsylvanicus 2011" ; Times: 1
+	Query: "didelphus virginiana" ; Times: 4
+	Query: "specificepithet:latrans rufus genus:canis class:Mammalia" ; Times: 1
+	Query: "Myotis leibii haslength:1" ; Times: 1
+	Query: "Nycticeius humeralis haslength:1" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 10
+	Query: "Myotis austroriparius haslength:1" ; Times: 1
+	Query: "pine vole" ; Times: 3
+	Query: "gbifdatasetid:acede617-a095-4caa-a93e-4a77f5f77935" ; Times: 3
+	Query: "genus:Corynorhinus order:chiroptera county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Myotis sodalis haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1973" ; Times: 2
+	Query: "specificepithet:lupus rufus genus:canis class:Mammalia" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 11
+	Query: "class:Mammalia county:&#34;Benton&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "genus:peromyscus county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1974" ; Times: 2
+	Query: "genus:reithrodontomys county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "Corynorhinus rafinesquii haslength:1" ; Times: 1
+	Query: "Lasiurus seminolus haslength:1" ; Times: 1
+	Query: "Panthera pardus india" ; Times: 2
+	Query: "class:mammalia county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 5
+	Query: "Panthera onca" ; Times: 10
+	Query: "Peromyscus maniculatus 1977" ; Times: 2
+	Query: "nivalis mustela" ; Times: 2
+	Query: "Microtus pennsylvanicus 2004" ; Times: 1
+	Query: "Peromyscus maniculatus 1978" ; Times: 2
+	Query: "Lasiurus borealis haslength:1" ; Times: 1
+	Query: "Myotis grisescens haslength:1" ; Times: 1
+	Query: "class:mammalia county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 3
+	Query: "genus:reithrodontomys county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 3
+	Query: "class:mammalia institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera hastissue:1" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 2011" ; Times: 1
+	Query: "Microtus pennsylvanicus 2005" ; Times: 1
+	Query: "genus:lepus county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "gray fox" ; Times: 1
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1979" ; Times: 2
+	Query: "genus:glaucomys county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "genus:peromyscus county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "genus: Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Didelphus virginiana" ; Times: 1
+	Query: "Peromyscus maniculatus 1982" ; Times: 1
+	Query: "Peromyscus maniculatus 1986" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1073 download events in this period)
+Total number of records downloaded: 4889
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Brazil ; Times: 2
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "prairie vole" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Panthera pardus india" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "&#34;Neotoma micropus&#34; hastissue:1" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 2
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; hastissue:1" ; Times: 1
+	Query: "class:mammalia county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "class:mammalia institutioncode:UAFMC" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+
+
+End of report.
