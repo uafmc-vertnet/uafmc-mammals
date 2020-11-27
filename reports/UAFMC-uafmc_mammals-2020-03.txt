@@ -1,0 +1,107 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 74
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: United Kingdom ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-18 ; Times: 5
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-17 ; Times: 3
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-23 ; Times: 3
+	Date: 2020-03-29 ; Times: 3
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-02 ; Times: 2
+	Date: 2020-03-03 ; Times: 3
+	Date: 2020-03-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Homo sapiens" ; Times: 1
+	Query: "specificepithet:hamadryas genus:Papio haslength:1" ; Times: 2
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 2
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "Myotis keenii" ; Times: 2
+	Query: "specificepithet:virginianus genus:Didelphis family:Didelphidae" ; Times: 1
+	Query: "peromyscus truei county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Scotophilus temminckii" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "family:Pteropodidae institutioncode:UAFMC hastissue:1" ; Times: 1
+	Query: "(salamander) hassex:1 haslength:1" ; Times: 1
+	Query: "Nyctalus noctula" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Sylvilagus haslength:1" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 10
+	Query: "JBM 368" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 853 download events in this period)
+Total number of records downloaded: 230
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 10
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 3
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "neovison vison vntype:specimen continent:America basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "family:Rhinolophidae hastissue:1" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "LEOPARDUS WIEDII" ; Times: 1
+	Query: "family:Pteropodidae institutioncode:UAFMC hastissue:1" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
