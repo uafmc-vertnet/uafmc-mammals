@@ -1,0 +1,190 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 891
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 134
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-22 ; Times: 23
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-24 ; Times: 3
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-05 ; Times: 25
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-04 ; Times: 69
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-06 ; Times: 3
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Dipodomys ordii 1972" ; Times: 1
+	Query: "Dipodomys ordii 1974" ; Times: 1
+	Query: "Dipodomys ordii 1977" ; Times: 1
+	Query: "perognathus longimembris brevinasus" ; Times: 1
+	Query: "Dipodomys ordii 1982" ; Times: 1
+	Query: "Myotis sodalis 1986" ; Times: 1
+	Query: "white tiger" ; Times: 1
+	Query: "Microtus longicaudus 1976" ; Times: 1
+	Query: "Microtus longicaudus 1977" ; Times: 1
+	Query: "Microtus longicaudus 1975" ; Times: 1
+	Query: "Reithrodontomys megalotis 2016" ; Times: 1
+	Query: "Rattus norvegicus 1977" ; Times: 1
+	Query: "Rattus norvegicus 1976" ; Times: 1
+	Query: "genus:sciurus carolinensis family:sciuridae continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Geomys bursarius 1976" ; Times: 1
+	Query: "Thomomys talpoides 2016" ; Times: 1
+	Query: "1357 lontra" ; Times: 1
+	Query: "Onychomys leucogaster 1989" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Myotis sodalis 1997" ; Times: 1
+	Query: "Dasypus novemcinctus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Microtus ochrogaster 1993" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Mus musculus 1983" ; Times: 2
+	Query: "Little Brown Bat" ; Times: 2
+	Query: "Mus musculus 1981" ; Times: 2
+	Query: "attwateri Peromyscus" ; Times: 2
+	Query: "Mus musculus 1985" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Chaetophractus vellerosus" ; Times: 2
+	Query: "jaguar panthera" ; Times: 1
+	Query: "feline" ; Times: 1
+	Query: "water shrew" ; Times: 2
+	Query: "Microtus ochrogaster 1981" ; Times: 1
+	Query: "Thomomys talpoides 1997" ; Times: 1
+	Query: "Onychomys leucogaster 2016" ; Times: 3
+	Query: "genus:Lynx rufus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Zapus princeps 1977" ; Times: 1
+	Query: "Zapus princeps 1976" ; Times: 1
+	Query: "Mus musculus 1991" ; Times: 2
+	Query: "Zapus princeps 1973" ; Times: 1
+	Query: "Rattus norvegicus 2011" ; Times: 1
+	Query: "Zapus princeps 2016" ; Times: 2
+	Query: "sylvilagus aquaticus preparations:skeleton" ; Times: 1
+	Query: "Myotis sodalis 1988" ; Times: 1
+	Query: "Onychomys leucogaster 1977" ; Times: 1
+	Query: "Onychomys leucogaster 1974" ; Times: 1
+	Query: "Onychomys leucogaster 1972" ; Times: 1
+	Query: "Microtus ochrogaster 2012" ; Times: 1
+	Query: "Mus musculus 2011" ; Times: 2
+	Query: "Mus musculus 2012" ; Times: 2
+	Query: "Drew Davis" ; Times: 1
+	Query: "Zapus princeps 2012" ; Times: 1
+	Query: "Zapus princeps 2011" ; Times: 1
+	Query: "Onychomys leucogaster 2010" ; Times: 1
+	Query: "Onychomys leucogaster 2011" ; Times: 1
+	Query: "Onychomys leucogaster 2012" ; Times: 1
+	Query: "Microtus montanus 1976" ; Times: 1
+	Query: "northern grasshopper mouse vntype:specimen stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "Myotis sodalis 2005" ; Times: 1
+	Query: "Myotis sodalis 2003" ; Times: 1
+	Query: "Myotis sodalis 2002" ; Times: 1
+	Query: "Myotis sodalis 2009" ; Times: 1
+	Query: "Dipodomys ordii 2012" ; Times: 1
+	Query: "Geomys bursarius 2016" ; Times: 2
+	Query: "Dipodomys ordii 2011" ; Times: 1
+	Query: "Dipodomys ordii 2016" ; Times: 1
+	Query: "Geomys bursarius 2011" ; Times: 1
+	Query: "Dipodomys ordii 2015" ; Times: 3
+	Query: "Mus musculus 1972" ; Times: 3
+	Query: "Mus musculus 1973" ; Times: 2
+	Query: "Mus musculus 1976" ; Times: 2
+	Query: "Mus musculus 1977" ; Times: 2
+	Query: "Mus musculus 1975" ; Times: 2
+	Query: "Neotoma mexicana 2011" ; Times: 1
+	Query: "Neotoma mexicana 2016" ; Times: 2
+	Query: "Leopardus pardalis 2015" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 1
+	Query: "Rattus norvegicus 2003" ; Times: 1
+	Query: "Myotis sodalis 2016" ; Times: 1
+	Query: "Myotis sodalis 2012" ; Times: 1
+	Query: "genus:Procyon lotor continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "citellus Spermophilus" ; Times: 1
+	Query: "Microtus longicaudus 2011" ; Times: 1
+	Query: "Microtus longicaudus 2016" ; Times: 4
+	Query: "Microtus ochrogaster 2016" ; Times: 3
+	Query: "Microtus ochrogaster 2011" ; Times: 1
+	Query: "Myotis sodalis 1974" ; Times: 1
+	Query: "Myotis sodalis 1975" ; Times: 1
+	Query: "Neotoma cinerea 2016" ; Times: 1
+	Query: "Neotoma cinerea 2012" ; Times: 1
+	Query: "Microtus ochrogaster 1973" ; Times: 1
+	Query: "Neotoma mexicana 1978" ; Times: 1
+	Query: "Microtus ochrogaster 1977" ; Times: 1
+	Query: "Microtus ochrogaster 1976" ; Times: 1
+	Query: "Microtus ochrogaster 1975" ; Times: 1
+	Query: "Microtus ochrogaster 1974" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 5
+	Query: "Microtus montanus 2011" ; Times: 1
+	Query: "Microtus montanus 2016" ; Times: 1
+	Query: "Geomys bursarius 1986" ; Times: 1
+	Query: "Geomys bursarius 1981" ; Times: 1
+	Query: "skin specificepithet:latrans genus:Canis hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1308 download events in this period)
+Total number of records downloaded: 231
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-08 ; Times: 2
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "northern grasshopper mouse vntype:specimen stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sylvilagus aquaticus preparations:skeleton" ; Times: 1
+	Query: "order:primates country:&#34;brazil&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Dasypus novemcinctus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "marmota monax vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "family:Geomyidae hasmass:1" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:Onychomys stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Odocoileus virginianus preparations:skeleton" ; Times: 1
+	Query: "genus:Lasiurus hastissue:1" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "water shrew" ; Times: 2
+	Query: "specificepithet:aquaticus genus:sylvilagus" ; Times: 1
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+
+
+End of report.
