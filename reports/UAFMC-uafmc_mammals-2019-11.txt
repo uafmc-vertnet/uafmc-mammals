@@ -1,0 +1,98 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 527
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 68
+	Country: Denmark ; Times: 8
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-26 ; Times: 6
+	Date: 2019-11-08 ; Times: 13
+	Date: 2019-11-09 ; Times: 12
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-07 ; Times: 14
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 15
+	Date: 2019-11-03 ; Times: 7
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mike Scott" ; Times: 1
+	Query: "Myotis sodalis 2016" ; Times: 4
+	Query: "Myotis sodalis 2012" ; Times: 4
+	Query: "Ovis aries" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:crawfordi genus:notiosorex institutioncode:UAFMC" ; Times: 1
+	Query: "Myotis sodalis 1988" ; Times: 4
+	Query: "Myotis sodalis 1986" ; Times: 4
+	Query: "Myotis sodalis 2005" ; Times: 4
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Myotis sodalis 2003" ; Times: 4
+	Query: "Myotis sodalis 2002" ; Times: 4
+	Query: "Myotis sodalis 1974" ; Times: 4
+	Query: "Myotis sodalis 1975" ; Times: 4
+	Query: "Panthera onca" ; Times: 1
+	Query: "Myotis sodalis 2009" ; Times: 4
+	Query: "Lutra lutra" ; Times: 1
+	Query: "Castor canadensis hastissue:1" ; Times: 1
+	Query: "Capra ibex" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 9
+	Query: "Oreamnos americanus" ; Times: 2
+	Query: "Myotis sodalis 1997" ; Times: 4
+	Query: "Leopardus pardalis 2015" ; Times: 2
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "Myotis sodalis 2015" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "genus:geomys breviceps stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "genus:lynx rufus stateprovince:&#34;arkansas&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1367 download events in this period)
+Total number of records downloaded: 374
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Vulpes family:Canidae class:Mammalia hastissue:1" ; Times: 1
+
+
+End of report.
