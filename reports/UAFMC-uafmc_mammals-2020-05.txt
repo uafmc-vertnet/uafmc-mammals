@@ -1,0 +1,80 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 2
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-27 ; Times: 5
+	Date: 2020-05-20 ; Times: 2
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "genus:Myocastor stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "Myocastor hastissue:1" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "specificepithet:coypus genus:Myocastor hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 1
+	Query: "JBM 368" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1106 download events in this period)
+Total number of records downloaded: 679
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 5
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 4
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:alpinus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "genus:Myocastor stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 2
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+
+
+End of report.
