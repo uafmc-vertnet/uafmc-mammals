@@ -1,0 +1,151 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 182
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-03 ; Times: 3
+	Date: 2020-02-05 ; Times: 3
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-12 ; Times: 5
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-04 ; Times: 12
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-01 ; Times: 4
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "indiana bat" ; Times: 2
+	Query: "Canis familiaris hasmass:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "&#34;Nycticeius humeralis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "bison atlas" ; Times: 1
+	Query: "genus:Nycticeius county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Arkansas&#34;" ; Times: 5
+	Query: "Dermoptera" ; Times: 4
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:mustela county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "dog years" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 6
+	Query: "&#34;Myotis sodalis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "opossum washington" ; Times: 1
+	Query: "Glaucomys volans (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus fulvescens" ; Times: 1
+	Query: "JM 1119" ; Times: 2
+	Query: "dermoptera" ; Times: 6
+	Query: "Dendrohyrax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 117 (out of 1023 download events in this period)
+Total number of records downloaded: 4772
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 102
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 13
+	Date: 2020-02-02 ; Times: 11
+	Date: 2020-02-03 ; Times: 17
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-04 ; Times: 11
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-29 ; Times: 5
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 7
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-27 ; Times: 7
+	Date: 2020-02-06 ; Times: 15
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicaudus genus:microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "&#34;Myotis lucifugus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 2020" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "&#34;Nycticeius humeralis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "&#34;Lasiurus cinereus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "&#34;Eptesicus fuscus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "(dermoptera)" ; Times: 5
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "&#34;Lasiurus borealis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 26
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "&#34;Myotis sodalis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "opossum washington" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 3
+	Query: "Glaucomys volans (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+
+
+End of report.
