@@ -1,0 +1,105 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 58
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Jaguar" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:Spilogale hastissue:1" ; Times: 1
+	Query: "geomys bursarius arkansas" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 11
+	Query: "genus:Spilogale hastissue:1" ; Times: 1
+	Query: "silver haired bat" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Drew R. Davis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 940 download events in this period)
+Total number of records downloaded: 1892
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 12
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
