@@ -1,0 +1,110 @@
+Report for Institution Code UAFMC, Resource uafmc_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 252
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 4
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-21 ; Times: 3
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-30 ; Times: 2
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-28 ; Times: 2
+	Date: 2020-12-02 ; Times: 7
+	Date: 2020-12-09 ; Times: 7
+	Date: 2020-12-11 ; Times: 4
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-04 ; Times: 4
+	Date: 2020-12-14 ; Times: 9
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-01 ; Times: 5
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "scientificname:Scalopus aquaticus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:americanus genus:ursus haslength:1" ; Times: 1
+	Query: "genus:Cervus family:Cervidae lengthtype:total length haslength:1" ; Times: 1
+	Query: "sika deer" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "scientificname:Microtus pinetorum stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Saguinus midas" ; Times: 1
+	Query: "scientificname:Peromyscus sp. stateprovince:new york" ; Times: 2
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UAFMC" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "specificepithet:arctos genus:ursus hasmass:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 7
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus haslength:1" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 4
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 8
+	Query: "genus:Corynorhinus stateprovince:&#34;Arkansas&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 705 download events in this period)
+Total number of records downloaded: 733
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-03 ; Times: 6
+	Date: 2020-12-02 ; Times: 5
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus haslength:1" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "&#34;Canis rufus&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+
+End of report.
